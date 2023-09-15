@@ -14,7 +14,3 @@ const urlBacon = "https://jsonplaceholder.typicode.com/comments";
             alert("Data get from jsonplaceholder: ");
         });
 })()
-
-/* take note :
-- beforeSend: function (xhr) { ... }: Đây là một hàm callback được gọi trước khi yêu cầu AJAX được gửi đi.
-*/
